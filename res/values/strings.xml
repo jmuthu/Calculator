@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="First_Number">First Number</string>
+    <string name="Second_Number">Second Number </string>
+    <string name="button_ADD">Add</string>
+    <string name="button_SUBTRACT">Subtract</string>
+    <string name="button_MULTIPLY">Multiply</string>
+    <string name="button_DIVIDE">Divide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_calculate">CalculateActivity</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
